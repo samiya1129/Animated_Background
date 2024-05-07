@@ -14,7 +14,7 @@ git clone https://github.com/samiya1129/animated-background-css.git
 
 Then link the CSS file to your HTML document:
 ```html
-<link rel="stylesheet" href="animated-background.css">
+<link rel="stylesheet" href="style.css">
 
 # Usage
 
